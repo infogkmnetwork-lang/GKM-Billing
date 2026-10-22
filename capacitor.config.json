@@ -1,0 +1,8 @@
+{
+  "appId": "com.gkmnetworks.admin",
+  "appName": "GKM Admin",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
